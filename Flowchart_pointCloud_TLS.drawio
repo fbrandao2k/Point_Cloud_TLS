@@ -58,7 +58,7 @@
         <mxCell id="uMm1ZipySUyF7MIDEUxG-11" value="Select scanning equipment and software" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uMm1ZipySUyF7MIDEUxG-13" value="Plan scanner positions and control points" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uMm1ZipySUyF7MIDEUxG-13" value="Plan scanner positions&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uMm1ZipySUyF7MIDEUxG-15" value="Plan control points (optional)" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -204,7 +204,7 @@
         <mxCell id="uMm1ZipySUyF7MIDEUxG-45" value="Point Cloud Optimization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="750" y="115" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uMm1ZipySUyF7MIDEUxG-48" value="Georeference (if necessary)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uMm1ZipySUyF7MIDEUxG-48" value="Georeference (optional)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="565" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uMm1ZipySUyF7MIDEUxG-50" value="Classification (vegetation, buildings,...)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
