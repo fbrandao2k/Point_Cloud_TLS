@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yB20yfuOQQZ5xXvPcAFa-2" value="baseado em:" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yB20yfuOQQZ5xXvPcAFa-3" value="YOLOv1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
@@ -80,6 +80,9 @@
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-2" target="eEbgqtng7Bv9wvGYlgRx-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-2" target="eEbgqtng7Bv9wvGYlgRx-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-2" value="2020" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -94,6 +97,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-6" target="eEbgqtng7Bv9wvGYlgRx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-6" target="eEbgqtng7Bv9wvGYlgRx-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-6" value="2021" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -120,6 +126,9 @@
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-14" target="eEbgqtng7Bv9wvGYlgRx-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-14" target="eEbgqtng7Bv9wvGYlgRx-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-14" value="2023" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1020" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -137,7 +146,7 @@
         </mxCell>
         <UserObject label="https://blog.roboflow.com/guide-to-yolo-models/" link="https://blog.roboflow.com/guide-to-yolo-models/" id="eEbgqtng7Bv9wvGYlgRx-29">
           <mxCell style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="600" y="390" width="230" height="60" as="geometry" />
+            <mxGeometry x="510" y="600" width="230" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-31" value="Yolo is introduced - Frames object detection as a single regression problem" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -146,8 +155,43 @@
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-33" value="batch normalization / anchor boxes" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eEbgqtng7Bv9wvGYlgRx-35" value="complex network structure / Darknet53, for feature extraction" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-35" value="complex network structure / Darknet53 / small objects" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-37" target="eEbgqtng7Bv9wvGYlgRx-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="470" />
+              <mxPoint x="1140" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-37" value="why YOLO?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-38" value="usually more performant in terms of accuracy and speed" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1170" y="360" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-40" target="eEbgqtng7Bv9wvGYlgRx-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-40" value="Bag of Freebies / pytorch / user-friendly / scalability" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-42" target="eEbgqtng7Bv9wvGYlgRx-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-42" value="multi-task / anchor-free / simplicity" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-44" value="data augmentation / yolov5 s m L X sizes&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-46" value="reduction of hyperparameters" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-48" value="&lt;br&gt;Unified multi-task capability /&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;improved usability and performance.&lt;/span&gt;&lt;li data-end=&quot;2645&quot; data-start=&quot;2259&quot;&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="290" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
