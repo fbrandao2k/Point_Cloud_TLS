@@ -10,6 +10,9 @@
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="yB20yfuOQQZ5xXvPcAFa-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="eEbgqtng7Bv9wvGYlgRx-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="2015" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="220" width="120" height="40" as="geometry" />
         </mxCell>
@@ -19,11 +22,14 @@
         <mxCell id="yB20yfuOQQZ5xXvPcAFa-1" value="YOLOACT" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yB20yfuOQQZ5xXvPcAFa-2" target="eEbgqtng7Bv9wvGYlgRx-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yB20yfuOQQZ5xXvPcAFa-2" value="baseado em:" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yB20yfuOQQZ5xXvPcAFa-3" value="YOLO is introduced - Frames object detection as a single regression problem" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="yB20yfuOQQZ5xXvPcAFa-3" value="YOLOv1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yB20yfuOQQZ5xXvPcAFa-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yB20yfuOQQZ5xXvPcAFa-5" target="yB20yfuOQQZ5xXvPcAFa-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -36,11 +42,14 @@
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yB20yfuOQQZ5xXvPcAFa-5" target="yB20yfuOQQZ5xXvPcAFa-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yB20yfuOQQZ5xXvPcAFa-5" target="eEbgqtng7Bv9wvGYlgRx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yB20yfuOQQZ5xXvPcAFa-5" value="2016" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yB20yfuOQQZ5xXvPcAFa-7" value="YOLOv2 - Introduces batch normalization, hiigher resolution classifiers, and anchor boxes" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="80" width="120" height="80" as="geometry" />
+        <mxCell id="yB20yfuOQQZ5xXvPcAFa-7" value="YOLOv2" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="310" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yB20yfuOQQZ5xXvPcAFa-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yB20yfuOQQZ5xXvPcAFa-9" target="yB20yfuOQQZ5xXvPcAFa-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -52,11 +61,14 @@
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yB20yfuOQQZ5xXvPcAFa-9" target="eEbgqtng7Bv9wvGYlgRx-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yB20yfuOQQZ5xXvPcAFa-9" target="eEbgqtng7Bv9wvGYlgRx-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yB20yfuOQQZ5xXvPcAFa-9" value="2018" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yB20yfuOQQZ5xXvPcAFa-11" value="YOLOv3 - Uses a more complex network structure, Darknet53, for feature extraction" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="445" y="80" width="130" height="80" as="geometry" />
+        <mxCell id="yB20yfuOQQZ5xXvPcAFa-11" value="YOLOv3" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="445" y="90" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-2" target="eEbgqtng7Bv9wvGYlgRx-3">
           <mxGeometry relative="1" as="geometry">
@@ -72,7 +84,7 @@
           <mxGeometry x="590" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-3" value="YOLOv4 / YOLOv5 / PP-YOLO" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="80" width="130" height="80" as="geometry" />
+          <mxGeometry x="590" y="90" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-6" target="eEbgqtng7Bv9wvGYlgRx-7">
           <mxGeometry relative="1" as="geometry">
@@ -122,6 +134,20 @@
         </mxCell>
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-19" value="YOLO-WORLD / YOLOv9 / YOLOv10 / YOLOv11" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="100" width="130" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="https://blog.roboflow.com/guide-to-yolo-models/" link="https://blog.roboflow.com/guide-to-yolo-models/" id="eEbgqtng7Bv9wvGYlgRx-29">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="600" y="390" width="230" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-31" value="Yolo is introduced - Frames object detection as a single regression problem" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-33" value="batch normalization / anchor boxes" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-35" value="complex network structure / Darknet53, for feature extraction" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
