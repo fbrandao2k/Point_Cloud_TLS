@@ -88,6 +88,20 @@
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-11" value="YOLOv6 / YOLOv7" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1165" y="70" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eEbgqtng7Bv9wvGYlgRx-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-14" target="eEbgqtng7Bv9wvGYlgRx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-14" value="2023" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1370" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-15" value="YOLOv8 / YOLO v6 3.-YOLO-NAS" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1365" y="70" width="130" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
