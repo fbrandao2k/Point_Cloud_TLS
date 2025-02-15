@@ -102,6 +102,20 @@
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-15" value="YOLOv8 / YOLO v6 3.-YOLO-NAS" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1365" y="70" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eEbgqtng7Bv9wvGYlgRx-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEbgqtng7Bv9wvGYlgRx-18" target="eEbgqtng7Bv9wvGYlgRx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-18" value="2024" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1570" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-19" value="YOLO-WORLD / YOLOv9 / YOLOv10 / YOLOv11" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1565" y="70" width="130" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
