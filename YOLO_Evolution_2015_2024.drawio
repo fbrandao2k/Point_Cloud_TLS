@@ -202,7 +202,7 @@
         <mxCell id="eEbgqtng7Bv9wvGYlgRx-51" value="optimized for real-world deployment / balancing high speed and efficiency&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eEbgqtng7Bv9wvGYlgRx-53" value="lower latency / lower parameters / real-time" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eEbgqtng7Bv9wvGYlgRx-53" value="faster / zero-shot / lower parameters / real-time" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1165" y="295" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
